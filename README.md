@@ -1,35 +1,65 @@
+<!-- 헤더 -->
+<div align="center">
+
 # Android Developer
 
-안드로이드 애플리케이션 개발에 관심이 있습니다.
-Kotlin 기반 프로젝트를 중심으로 다양한 앱 개발을 진행했습니다.
+Kotlin 기반 Android 애플리케이션 개발에 관심이 있습니다.
 
----
+</div>
 
-## Tech Stack
+<br>
 
-Android / Kotlin  
-Firebase / REST API  
-WebSocket / Real-time Communication
+<!-- Tech Stack -->
+<h3 align="center">⚒ Tech Stack</h3>
 
----
+<div align="center">
 
-## Projects
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-- Emotional Regulation App
-  정서 기록 및 주간 설문 기반 감정 관리 앱
+<br>
 
-- Vehicle Data App
-  차량 데이터 기반 운행 분석 애플리케이션
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
 
----
+</div>
 
-## Portfolio
+<br>
 
-📂 Portfolio Repository  
-https://github.com/xxx/portfolio
+<!-- Tools -->
+<h3 align="center">🛠 Tools</h3>
 
----
+<div align="center">
 
-## Contact
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-Email : gary7345@hs.ac.kr
+</div>
+
+<br>
+
+<!-- Portfolio -->
+<h3 align="center">📂 Portfolio</h3>
+
+<div align="center">
+
+<a href="https://github.com/your-id/portfolio-repo">
+<img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- Contact -->
+<h3 align="center">📫 Contact</h3>
+
+<div align="center">
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
