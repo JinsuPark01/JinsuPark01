@@ -1,9 +1,12 @@
-<!-- 헤더 -->
+<!-- Header -->
 <div align="center">
 
-# Android Developer
+<h2>Android Developer</h2>
 
-Kotlin 기반 Android 애플리케이션 개발에 관심이 있습니다.
+<p>
+Kotlin 기반 Android 애플리케이션 개발을 합니다.<br>
+사용자 경험을 고려한 앱 개발에 관심이 있습니다.
+</p>
 
 </div>
 
@@ -16,12 +19,27 @@ Kotlin 기반 Android 애플리케이션 개발에 관심이 있습니다.
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 <br>
 
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/StateFlow-0095D5?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OkHttp-3DDC84?style=for-the-badge" />
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
 
 </div>
 
