@@ -1,16 +1,35 @@
-## Hi there 👋
+# Android Developer
 
-<!--
-**JinsuPark01/JinsuPark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안드로이드 애플리케이션 개발에 관심이 있습니다.
+Kotlin 기반 프로젝트를 중심으로 다양한 앱 개발을 진행했습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Android / Kotlin  
+Firebase / REST API  
+WebSocket / Real-time Communication
+
+---
+
+## Projects
+
+- Emotional Regulation App
+  정서 기록 및 주간 설문 기반 감정 관리 앱
+
+- Vehicle Data App
+  차량 데이터 기반 운행 분석 애플리케이션
+
+---
+
+## Portfolio
+
+📂 Portfolio Repository  
+https://github.com/xxx/portfolio
+
+---
+
+## Contact
+
+Email : gary7345@hs.ac.kr
