@@ -45,7 +45,7 @@ Kotlin 기반 Android 애플리케이션 개발에 관심이 있습니다.
 
 <div align="center">
 
-<a href="https://github.com/your-id/portfolio-repo">
+<a href="https://github.com/JinsuPark01/portfolio">
 <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -58,7 +58,7 @@ Kotlin 기반 Android 애플리케이션 개발에 관심이 있습니다.
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:gary7345@hs.ac.kr">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
