@@ -4,7 +4,7 @@
 <h2>Android Developer</h2>
 
 <p>
-Kotlin 기반 Android 애플리케이션 개발을 합니다.<br>
+Kotlin 기반 Android 애플리케이션 개발<br>
 </p>
 
 </div>
